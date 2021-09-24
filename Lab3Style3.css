@@ -1,0 +1,9 @@
+p{
+  font-family: Arial;
+  text-transform: capitalize;
+}
+
+.img{
+  border-width: 1px;
+  border-style: solid;
+}
