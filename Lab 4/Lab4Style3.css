@@ -1,0 +1,28 @@
+body{
+  background-color: white;
+}
+
+#box{
+  margin: 10px 10px 10px 10px;
+  border: black 5px dashed;
+  border-width: medium;
+  padding: 5px 5px 5px 5px;
+  background-color: green;
+}
+
+div p.red{
+  color: red;
+}
+
+div p.green{
+  color: #024C09;
+}
+
+div p.purple{
+  color: purple;
+  background-color: green;
+}
+
+#bigger{
+  background-color: green;
+}

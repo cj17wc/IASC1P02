@@ -1,0 +1,25 @@
+body{
+  background-color: blue;
+}
+
+img{
+  margin: 10px 100px 10px 10px;
+  margin-left: -4px;
+  margin-bottom: -4px;
+  border: pink 2px dashed;
+  padding: 20px 20px 20px 20px;
+}
+
+p{
+  margin: 10px 10px 10px 10px;
+  border: green 2px dashed;
+  border-width: thin;
+  padding: 5px 5px 5px 5px;
+  color:red;
+}
+
+#main{
+  margin: 150px 140px 150px 140px;
+  border: black 5px solid;
+  padding: 5px 5px 5px 5px;
+}

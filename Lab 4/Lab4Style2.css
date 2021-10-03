@@ -1,0 +1,36 @@
+div p.box{
+  font-size: 13px;
+  text-align: center;
+  margin: 10px 10px 10px 10px;
+  border: purple 3px dashed;
+  padding: 250px 10px 10px 10px;
+  padding-bottom: 25px;
+}
+
+div p.small{
+  font-size: 10px;
+  color:green;
+  text-align: center;
+}
+
+div p.big{
+  color: orange;
+  font-size: 30px;
+}
+
+.red{
+  color: red;
+  font-size: 30px;
+  vertical-align:super;
+}
+
+div p.smaller{
+  color: purple;
+  font-size: 5px;
+  text-align: right;
+}
+
+.yellow{
+  color: yellow;
+  text-transform: uppercase;
+}
