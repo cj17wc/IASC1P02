@@ -1,0 +1,36 @@
+body{
+  background-color: white;
+  color: black;
+}
+
+#wrapper{
+  background-color: green;
+  height: 820px;
+}
+
+#Box1{
+  float: left;
+  background-color: blue;
+  width: 300px;
+  height: 300px;
+  margin-top: 10px;
+  margin-left:125px;
+}
+
+#Box2{
+  float: right;
+  background-color: red;
+  width: 300px;
+  height: 300px;
+  margin-top: 10px;
+  margin-right:125px;
+}
+
+#Box3{
+  clear: both;
+  background-color: yellow;
+  width: 300px;
+  height: 300px;
+  margin-left:525px;
+  margin-top: 610px;
+}
